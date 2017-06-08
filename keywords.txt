@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For X9C
+#######################################
+
+#######################################
+# Library (KEYWORD1)
+#######################################
+
+X9C	KEYWORD1
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+X9C	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setPot	KEYWORD2
+setPotMax	KEYWORD2
+setPotMin	KEYWORD2
+trimPot	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+X9C_UP	LITERAL1
+X9C_DOWN	LITERAL1
+X9C_MAX	LITERAL1
+
